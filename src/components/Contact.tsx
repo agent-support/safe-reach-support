@@ -19,12 +19,12 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Support",
-      value: "support@antiscamrecovery.site",
+      value: "cfpb@supportantiscamrecovery.support",
     },
     {
       icon: Phone,
       title: "Phone Support",
-      value: "+18156008181",
+      value: "+18457411795",
     },
   ];
 
